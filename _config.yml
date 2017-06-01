@@ -106,8 +106,6 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
-include: ["_pages"]
-
 # Reading Files
 include:
   - .htaccess
