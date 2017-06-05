@@ -191,6 +191,10 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Archives
 #  Type
