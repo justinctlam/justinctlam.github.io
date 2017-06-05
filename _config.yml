@@ -248,3 +248,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"      
