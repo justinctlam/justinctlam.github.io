@@ -194,7 +194,7 @@ whitelist:
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /:collection/:path/
 
 # Archives
 #  Type
