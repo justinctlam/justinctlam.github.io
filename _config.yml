@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Justin Lam"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/portrait.jpg"
   bio              : "Software Developer at Microsoft"
   location         : "Redmond, WA"
   email            : justinlam@outlook.com
@@ -89,15 +89,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "justinctlam"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "justintlam"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "6253412/justin-lam" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          :
@@ -258,4 +258,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true    
+      share: true

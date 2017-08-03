@@ -21,6 +21,12 @@ my_array:
   - imageUrl: https://images-na.ssl-images-amazon.com/images/I/51ejdeSXFjL.jpg
     url: https://read.amazon.com/kp/embed?asin=B00DGZKQM8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_-chpzbSVK2EWZ
     title: "Leaders Eat Last: Why Some Teams Pull Together and Others Don't"
+  - imageUrl: https://images-na.ssl-images-amazon.com/images/I/41BKx1AxQWL._SX396_BO1,204,203,200_.jpg
+    url: https://read.amazon.com/kp/embed?asin=B003GCTQAE&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_9XRAzbRY6MWJQ
+    title: "The Pragmatic Programmer: From Journeyman to Master"
+  - imageUrl: https://images-na.ssl-images-amazon.com/images/I/41vIhBDtpCL.jpg
+    url: https://read.amazon.com/kp/embed?asin=B001BAGWQE&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_rESAzbA0CTYDN
+    title: "Traffic: Why We Drive the Way We Do"
 ---
 
 **Favorite Books**
