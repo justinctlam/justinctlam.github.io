@@ -3,6 +3,12 @@ layout: archive
 title: Books
 permalink: /books/   
 my_array:
+  - imageUrl: https://images-na.ssl-images-amazon.com/images/I/51bPR2V9fBL._SX404_BO1,204,203,200_.jpg
+    url: https://read.amazon.ca/kp/embed?asin=B001GSTOAM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ZW3pAb43TMZ3A
+    title: "Clean Code: A Handbook of Agile Software Craftsmanship"
+  - imageUrl: https://images-na.ssl-images-amazon.com/images/I/51APYREq6iL.jpg
+    url: https://read.amazon.ca/kp/embed?asin=B01NAKSWW1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_3Q3pAbW93B13H
+    title: "Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made"
   - imageUrl: https://images-na.ssl-images-amazon.com/images/I/51C3w4IkIWL.jpg
     url: https://read.amazon.com/kp/embed?asin=B01CO34D12&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_WV1ozbYZ8FTYQ
     title: "Payoff: The Hidden Logic That Shapes Our Motivations"
