@@ -1,5 +1,6 @@
 ---
 title: How to Create Great Work
+excerpt: As a software developer, I’m always looking for ways to be more productive and excel in producing great work. 
 permalink: /CreateGreatWork/
 ---
 As a software developer, I’m always looking for ways to be more productive and excel in producing great work.  Unfortunately I face obstacles towards this goal especially in this age of distraction.  We get distracted from social media, messaging notification, and even the urge to keep up to date with the last news or tech article.  According to Cal Newport these distractions are called shallow work which is the opposite of the goal of doing deep work.  I recently finished Cal Newport’s book title Deep Work: Rules for Focused Success in a Distracted World.

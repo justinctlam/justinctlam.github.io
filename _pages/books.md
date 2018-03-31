@@ -3,6 +3,12 @@ layout: archive
 title: Books
 permalink: /books/   
 my_array:
+  - imageUrl: https://images-na.ssl-images-amazon.com/images/I/51IFb8%2Bq2QL._SX382_BO1,204,203,200_.jpg
+    url: https://read.amazon.com/kp/embed?asin=B009CFV8BY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_qfbWAbJM0BV24
+    title: "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams"
+  - imageUrl: https://images-na.ssl-images-amazon.com/images/I/41x7F7HE6jL._SX329_BO1,204,203,200_.jpg
+    url: http://a.co/cE1nfGf
+    title: "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google"
   - imageUrl: https://images-na.ssl-images-amazon.com/images/I/51bPR2V9fBL._SX404_BO1,204,203,200_.jpg
     url: https://read.amazon.ca/kp/embed?asin=B001GSTOAM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ZW3pAb43TMZ3A
     title: "Clean Code: A Handbook of Agile Software Craftsmanship"

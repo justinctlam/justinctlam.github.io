@@ -1,5 +1,6 @@
 ---
 title: Super Mario 3D Land-style Character Visibility
+excerpt: I needed to solve a problem in my game where the character is obstructed when moving behind objects.
 permalink: /CharacterVisibility/
 ---
 I needed to solve a problem in my game where the character is obstructed when moving behind objects.
